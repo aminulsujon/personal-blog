@@ -3,7 +3,6 @@
 <span>HTML</span>
 <span>CSS</span>
 <span>VueJS</span>
-<span>JQuery</span>
 <span>Ajax</span>
 <span>Gridsome</span>
 <span>Python</span>
