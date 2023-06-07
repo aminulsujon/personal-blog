@@ -1,0 +1,51 @@
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://ficci.org.bd/",
+      "logo": "https://ficci.org.bd/uploads/site_logo_FICCI-size___1640758997.png"
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "FICCI",
+        "url": "https://ficci.org.bd/",
+        "logo": "https://ficci.org.bd/uploads/site_logo_FICCI-size___1640758997.png",
+        "image": "https://ficci.org.bd/uploads/slider/slider_Image_FICCI_BoDs__1678176865.jpg",
+        "alternateName": "Foreign Investors Chamber of Commerce Industry Bangladesh",
+        "legalName": "{{The official/registered name of the organization}}",
+        "slogan":"Accelerating grouth and development of Bangladesh",
+        "email": "info@ficci.org.bd",
+        "telephone": "+8802222271611",
+        "hasMap": "https://goo.gl/maps/cwkNhzTbsE9LoBV17",
+        "sameAs": [
+            "https://twitter.com/FICCIBD",
+            "https://www.linkedin.com/company/ficci-bangladesh/",
+            "https://www.facebook.com/FICCIBD",
+            "https://www.youtube.com/@foreigninvestorschamberofc4012",
+            "https://www.instagram.com/FICCIBD/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Dhaka, Bangladesh",
+            "addressRegion": "BD",
+            "postalCode": "1213",
+            "streetAddress": "House # 59 (Level-04), Road # 1 Block # I, Banani Dhaka-1213"
+        },
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+8802222271610",
+                "contactType": "Administrative Support",
+                "email": "info@ficci.org.bd",
+                "areaServed": "BD",
+                "availableLanguage": "en"
+            }
+        ],
+        "keywords": "FICCI, Economic Partner of Bangladesh, Trade Bangladesh, Industry Bangladesh",
+        "mainEntityOfPage":"https://ficci.org.bd/page/About-FICCI",
+        "knowsAbout": "The Foreign Investors’ Chamber of Commerce & Industry (FICCI) is an apex body of foreign investors, jointly working together in the economic growth of Bangladesh with their active participation in more than 21 sectors of development since 1963, making Bangladesh the next Asian tiger."
+    }
+</script> 
