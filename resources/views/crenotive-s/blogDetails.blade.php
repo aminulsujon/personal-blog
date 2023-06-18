@@ -54,7 +54,7 @@
                     @endif
                 </div>
                 <p>{!! $content->description !!}</p>
-                {{-- @include($websettings['cms_layout'].'.components.tag') --}}
+                @include($websettings['cms_layout'].'.components.tag')
                 @include('social_share')
                 @include($websettings['cms_layout'].'.components.comment')
             </div>
